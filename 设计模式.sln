@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.简单工厂模式", "简单工厂模式\1.简单工厂模式.csproj", "{122F86A9-0471-4989-BE9D-DFD26D6EB803}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.简单工厂模式", "1.简单工厂模式\1.简单工厂模式.csproj", "{122F86A9-0471-4989-BE9D-DFD26D6EB803}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.策略模式", "策略模式\2.策略模式.csproj", "{582E33EB-9A02-482B-A9E6-AC0F7442461F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.策略模式", "2.策略模式\2.策略模式.csproj", "{582E33EB-9A02-482B-A9E6-AC0F7442461F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.装饰模式", "3.装饰模式\3.装饰模式.csproj", "{14D91F26-61B3-4140-B27D-DE0A4F1897F9}"
 EndProject
