@@ -15,6 +15,8 @@ namespace _22.解释器模式
             list.Add(new TerminalExpression());
             list.Add(new NonterminalExpression());
             list.Add(new TerminalExpression());
+               
+
 
             foreach(var e in list)
             {
