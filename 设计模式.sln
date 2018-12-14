@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.简单工厂模式", "1.简单工厂模式\1.简单工厂模式.csproj", "{122F86A9-0471-4989-BE9D-DFD26D6EB803}"
 EndProject
@@ -50,6 +50,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.享元模式", "21.享元模式\21.享元模式.csproj", "{8EEF975C-AED5-4A9B-8CA3-3F4CE1744506}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.解释器模式", "22.解释器模式\22.解释器模式.csproj", "{DCA5CC82-4B6E-48B1-8110-5B384F4B6140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.访问者模式", "23.访问者模式\23.访问者模式.csproj", "{CD2E5F08-ABC6-405C-874D-A04AD6CC32AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,8 +155,15 @@ Global
 		{DCA5CC82-4B6E-48B1-8110-5B384F4B6140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA5CC82-4B6E-48B1-8110-5B384F4B6140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA5CC82-4B6E-48B1-8110-5B384F4B6140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2E5F08-ABC6-405C-874D-A04AD6CC32AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2E5F08-ABC6-405C-874D-A04AD6CC32AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2E5F08-ABC6-405C-874D-A04AD6CC32AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2E5F08-ABC6-405C-874D-A04AD6CC32AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99289AFE-A262-472C-8101-B2BF44FC556E}
 	EndGlobalSection
 EndGlobal
